@@ -1,0 +1,380 @@
+[
+ {
+  "act": "RBI Digital Lending Directions 2025",
+  "label": "Scope",
+  "text": "The Reserve Bank of India (Digital Lending) Directions, 2025, dated 8 May 2025, apply to digital lending by regulated entities such as banks, NBFCs and housing finance companies. They consolidate the 2022 Guidelines on Digital Lending and the 2023 Default Loss Guarantee Guidelines.",
+  "id": "RBI_DL|Scope"
+ },
+ {
+  "act": "RBI Digital Lending Directions 2025",
+  "label": "Key Fact Statement",
+  "text": "A regulated entity must give the borrower a Key Fact Statement in a standardised format before the loan contract is executed.",
+  "id": "RBI_DL|Key Fact Statement"
+ },
+ {
+  "act": "RBI Digital Lending Directions 2025",
+  "label": "Annual Percentage Rate",
+  "text": "The APR, the all-inclusive cost of the digital loan to the borrower, must be disclosed upfront and be part of the Key Fact Statement.",
+  "id": "RBI_DL|Annual Percentage Rate"
+ },
+ {
+  "act": "RBI Digital Lending Directions 2025",
+  "label": "Fees not in the Key Fact Statement",
+  "text": "Under the 2022 digital lending guidelines (para 5.2.3), fees and charges not mentioned in the Key Fact Statement cannot be charged to the borrower at any stage of the loan.",
+  "id": "RBI_DL|Fees not in the Key Fact Statement"
+ },
+ {
+  "act": "RBI Digital Lending Directions 2025",
+  "label": "Cooling-off period",
+  "text": "The borrower must be given an explicit option to exit the digital loan during a cooling-off period by repaying the principal and the proportionate APR without penalty. The board of the lender sets the period, which must be at least one day. The lender may charge a reasonable one-time processing fee on exit.",
+  "id": "RBI_DL|Cooling-off period"
+ },
+ {
+  "act": "RBI Pre-payment Charges Directions 2025",
+  "label": "Individuals non-business floating rate",
+  "text": "Under the Reserve Bank of India (Pre-payment Charges on Loans) Directions, 2025, regulated entities cannot levy pre-payment or foreclosure charges on floating rate loans given to individuals for non-business purposes, even if there is a co-obligant, whatever the source of repayment funds.",
+  "id": "RBI_PP|Individuals non-business floating rate"
+ },
+ {
+  "act": "RBI Pre-payment Charges Directions 2025",
+  "label": "Applicability date",
+  "text": "The Directions apply to loans and advances sanctioned or renewed on or after 1 January 2026.",
+  "id": "RBI_PP|Applicability date"
+ },
+ {
+  "act": "RBI Pre-payment Charges Directions 2025",
+  "label": "Hybrid rate loans",
+  "text": "For loans with both fixed and floating components, the prohibition applies if the loan is on a floating rate at the time of pre-payment.",
+  "id": "RBI_PP|Hybrid rate loans"
+ },
+ {
+  "act": "RBI Pre-payment Charges Directions 2025",
+  "label": "Business loans to individuals and small enterprises",
+  "text": "The Directions also bar pre-payment charges on floating rate loans for business purposes to individuals and micro and small enterprises, for the categories of lenders they specify.",
+  "id": "RBI_PP|Business loans to individuals and small enterprises"
+ },
+ {
+  "act": "Credit Information Companies Act 2005",
+  "label": "Section 17 Collection and furnishing of credit information",
+  "text": "Credit information is collected from credit institutions and furnished to specified users, as provided in this section.",
+  "id": "CICRA|Section 17 Collection and furnishing of credit information"
+ },
+ {
+  "act": "Credit Information Companies Act 2005",
+  "label": "Section 21 Correction of credit information",
+  "text": "A borrower can ask the credit institution or the credit information company to correct or update credit information. Under section 21(3) read with the Credit Information Companies Rules 2006, the correction must be done within 30 days of the request.",
+  "id": "CICRA|Section 21 Correction of credit information"
+ },
+ {
+  "act": "Credit Information Companies Act 2005",
+  "label": "RBI fortnightly reporting 2024",
+  "text": "Under the RBI notification dated 8 August 2024, credit institutions must report credit information to credit information companies fortnightly, within seven calendar days of the end of the reporting fortnight.",
+  "id": "CICRA|RBI fortnightly reporting 2024"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 54 Sale",
+  "text": "A sale is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. In the case of tangible immovable property worth one hundred rupees or more, or a reversion or other intangible thing, the transfer can be made only by a registered instrument. A contract for sale does not by itself create any interest in or charge on the property.",
+  "id": "TPA|Section 54 Sale"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 55(1)(a) Seller must disclose defects",
+  "text": "The seller must disclose to the buyer any material defect in the property or in the seller's title that the seller knows of, that the buyer does not know of, and that the buyer could not discover with ordinary care.",
+  "id": "TPA|Section 55(1)(a) Seller must disclose defects"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 55(1)(b) Seller must produce title documents",
+  "text": "The seller must produce all documents of title relating to the property in his possession for examination by the buyer.",
+  "id": "TPA|Section 55(1)(b) Seller must produce title documents"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 58 Mortgage",
+  "text": "A mortgage is the transfer of an interest in specific immovable property to secure the payment of money advanced or to be advanced by way of loan, an existing or future debt, or performance of an engagement that may give rise to a pecuniary liability.",
+  "id": "TPA|Section 58 Mortgage"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 107 Lease",
+  "text": "A lease of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent, can be made only by a registered instrument.",
+  "id": "TPA|Section 107 Lease"
+ },
+ {
+  "act": "Transfer of Property Act",
+  "label": "Section 123 Gift of immovable property",
+  "text": "A gift of immovable property must be made by a registered instrument signed by or on behalf of the donor and attested by at least two witnesses.",
+  "id": "TPA|Section 123 Gift of immovable property"
+ },
+ {
+  "act": "Registration Act 1908",
+  "label": "Section 17 Compulsory registration",
+  "text": "Certain documents must be registered, including sale deeds and other instruments that create or transfer rights in immovable property worth one hundred rupees or more, gifts of immovable property, and leases for more than one year.",
+  "id": "REG|Section 17 Compulsory registration"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 13 Advance before agreement for sale",
+  "text": "A promoter cannot accept more than 10 percent of the cost of the apartment, plot or building as an advance or application fee without first entering into a written agreement for sale and registering it.",
+  "id": "RERA|Section 13 Advance before agreement for sale"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 14 Sanctioned plans",
+  "text": "The promoter must develop the project as per the sanctioned plans and specifications. Other additions or alterations need the previous consent of at least two-thirds of the allottees.",
+  "id": "RERA|Section 14 Sanctioned plans"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 14(3) Structural defects",
+  "text": "If a structural defect or other defect in workmanship, quality or provision of services is brought to the promoter's notice within five years of handing over possession, the promoter must rectify it within 30 days at no cost to the allottee.",
+  "id": "RERA|Section 14(3) Structural defects"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 18(1) Delay in possession",
+  "text": "If the promoter fails to complete the project or give possession by the date in the agreement for sale, the allottee can withdraw and claim a refund of the amount paid with interest and compensation, or, if the allottee does not withdraw, receive interest for every month of delay until possession.",
+  "id": "RERA|Section 18(1) Delay in possession"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 19(6) Allottee payments",
+  "text": "An allottee who enters into an agreement for sale must make the necessary payments in the manner and within the time specified in the agreement.",
+  "id": "RERA|Section 19(6) Allottee payments"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 19(7) Interest payable by allottee",
+  "text": "An allottee is liable to pay interest at the prescribed rate for any delay in making payments.",
+  "id": "RERA|Section 19(7) Interest payable by allottee"
+ },
+ {
+  "act": "Real Estate (Regulation and Development) Act 2016",
+  "label": "Section 2(za) Interest symmetry",
+  "text": "The rate of interest chargeable from the allottee by the promoter on default must be equal to the rate the promoter must pay the allottee on default. A clause with a much higher penalty rate against the buyer than against the builder conflicts with this.",
+  "id": "RERA|Section 2(za) Interest symmetry"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 13B Divorce by mutual consent",
+  "text": "Both parties may jointly petition for divorce if they have been living separately for one year or more, have not been able to live together, and have mutually agreed that the marriage should be dissolved. The second motion can be made not earlier than six months after the petition. Courts have held this six month period is directory and can be waived in suitable cases. Consent must continue until the decree is passed.",
+  "id": "HMA|Hindu Marriage Act Section 13B Divorce by mutual consent"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 14 One year bar",
+  "text": "No petition for divorce may be presented within one year of the marriage, except with the leave of the court in cases of exceptional hardship or depravity.",
+  "id": "HMA|Hindu Marriage Act Section 14 One year bar"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 24 Interim maintenance",
+  "text": "If either spouse has no independent income sufficient for support and the necessary expenses of the proceeding, the court may order the other spouse to pay the expenses of the proceeding and a monthly sum during the proceeding.",
+  "id": "HMA|Hindu Marriage Act Section 24 Interim maintenance"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 25 Permanent alimony and maintenance",
+  "text": "At the time of passing a decree or later, the court may order one spouse to pay maintenance to the other, having regard to the income and property of both, the conduct of the parties and other circumstances. The order can be varied or rescinded if circumstances change.",
+  "id": "HMA|Hindu Marriage Act Section 25 Permanent alimony and maintenance"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 26 Custody of children",
+  "text": "In any proceeding under the Act, the court may pass orders in the decree about the custody, maintenance and education of minor children, consistently with their wishes wherever possible.",
+  "id": "HMA|Hindu Marriage Act Section 26 Custody of children"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Marriage Act Section 27 Disposal of property",
+  "text": "The court may make provisions in the decree about property presented at or about the time of marriage that belongs jointly to the husband and wife.",
+  "id": "HMA|Hindu Marriage Act Section 27 Disposal of property"
+ },
+ {
+  "act": "Hindu Marriage Act and Family Law",
+  "label": "Hindu Minority and Guardianship Act Section 13 Welfare of minor",
+  "text": "In the appointment or declaration of any person as guardian of a Hindu minor, the welfare of the minor is the paramount consideration.",
+  "id": "HMA|Hindu Minority and Guardianship Act Section 13 Welfare of minor"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 2(7) Consumer",
+  "text": "A person who buys goods or hires or avails of a service for a consideration. It does not include a person who obtains goods for resale or goods or services for a commercial purpose.",
+  "id": "CPA|Section 2(7) Consumer"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 2(9) Consumer rights",
+  "text": "The six rights are protection against hazardous goods and services, information about quality, quantity, potency, purity, standard and price, access to a variety of goods and services at competitive prices, the right to be heard, the right to seek redressal against unfair or restrictive trade practices or unscrupulous exploitation, and the right to consumer awareness.",
+  "id": "CPA|Section 2(9) Consumer rights"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 2(11) Deficiency",
+  "text": "Any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance required by law or undertaken under a contract. It includes negligence or omission that causes loss or injury to the consumer and deliberate withholding of relevant information.",
+  "id": "CPA|Section 2(11) Deficiency"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 2(46) Unfair contract",
+  "text": "A contract between a manufacturer, trader or service provider and a consumer with terms that cause a significant change in the consumer's rights. Examples include excessive security deposits, penalties for breach that are disproportionate to the loss, refusing to accept early repayment of debts on payment of the applicable penalty, unilateral termination without reasonable cause, assignment of the contract to the consumer's detriment without consent, and unreasonable charges, obligations or conditions that put the consumer at a disadvantage.",
+  "id": "CPA|Section 2(46) Unfair contract"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 2(47) Unfair trade practice",
+  "text": "A trade practice that adopts an unfair method or deceptive practice to promote the sale, use or supply of goods or services, including false or misleading representations and advertisements, not issuing a bill or cash memo or receipt, refusing to take back defective goods or withdraw deficient services and refund the price within the stated period or 30 days, and disclosing personal information given in confidence by the consumer unless the law requires it.",
+  "id": "CPA|Section 2(47) Unfair trade practice"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 49(2) State Commission power over unfair contracts",
+  "text": "The State Consumer Disputes Redressal Commission can declare any term of a contract that is unfair to a consumer to be null and void.",
+  "id": "CPA|Section 49(2) State Commission power over unfair contracts"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 59(2) National Commission power over unfair contracts",
+  "text": "The National Consumer Disputes Redressal Commission can declare any term of a contract that is unfair to a consumer to be null and void.",
+  "id": "CPA|Section 59(2) National Commission power over unfair contracts"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Sections 84 to 86 Product liability",
+  "text": "A product manufacturer, product service provider and product seller are liable to compensate a consumer for harm caused by a defective product or deficient service, as set out in these sections.",
+  "id": "CPA|Sections 84 to 86 Product liability"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Section 100 Remedy in addition to other laws",
+  "text": "The Act is in addition to, and not in derogation of, any other law in force. Consumer remedies exist alongside other remedies.",
+  "id": "CPA|Section 100 Remedy in addition to other laws"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Case Emaar MGF Land Ltd v Aftab Singh (Supreme Court 2018)",
+  "text": "An arbitration clause in a builder-buyer agreement cannot circumscribe the jurisdiction of a consumer forum, so a consumer can still complain to the consumer commission.",
+  "id": "CPA|Case Emaar MGF Land Ltd v Aftab Singh (Supreme Court 2018)"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark patterns Scope",
+  "text": "The Guidelines for Prevention and Regulation of Dark Patterns, 2023 were issued by the Central Consumer Protection Authority on 30 November 2023 under section 18 of the Consumer Protection Act 2019. No person, including any platform, may engage in a dark pattern. They apply to all platforms systematically offering goods or services in India, to advertisers and to sellers, and they are in addition to other laws. A dark pattern is a deceptive design practice that misleads or tricks users into doing something they did not intend, by impairing consumer autonomy or choice, and can amount to a misleading advertisement, an unfair trade practice or a violation of consumer rights. The illustrations in the Annexure are guidance only.",
+  "id": "CPA|Dark patterns Scope"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern False urgency",
+  "text": "Falsely stating or implying urgency or scarcity to push an immediate purchase, such as showing false popularity or claiming stock is more limited than it is.",
+  "id": "CPA|Dark pattern False urgency"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Basket sneaking",
+  "text": "Adding items, services or payments such as charity or donations at checkout without the user's consent, so the total exceeds the price of what the user chose. Free samples, complimentary services and necessary fees disclosed at purchase, such as delivery charges, gift wrapping and government taxes, are excluded. Examples are pre-ticked paid extras and auto-added travel insurance.",
+  "id": "CPA|Dark pattern Basket sneaking"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Confirm shaming",
+  "text": "Using a phrase, video, audio or other means to create fear, shame, ridicule or guilt so the user buys a product or continues a subscription, for commercial gain, for example \"I will stay unsecured\" when a user declines insurance.",
+  "id": "CPA|Dark pattern Confirm shaming"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Forced action",
+  "text": "Forcing a user to buy additional goods, subscribe or sign up for an unrelated service, or share personal information, in order to get the product originally intended. Examples are requiring an upgrade to keep using a service already paid for, forcing a newsletter subscription, demanding Aadhaar or credit card details not needed for the purchase, demanding contacts or social network details, and making privacy settings hard to change.",
+  "id": "CPA|Dark pattern Forced action"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Subscription trap",
+  "text": "Making cancellation of a paid subscription impossible or complex and lengthy, hiding the cancellation option, forcing payment details or auto-debit authorisation to get a free subscription, or making cancellation instructions ambiguous or confusing.",
+  "id": "CPA|Dark pattern Subscription trap"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Interface interference",
+  "text": "Designing the interface to highlight some information while obscuring other relevant information, so the user is misdirected, for example a faint \"No\" option, a tiny cancellation symbol, or an X icon that opens another advertisement.",
+  "id": "CPA|Dark pattern Interface interference"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Bait and switch",
+  "text": "Advertising one outcome but deceptively delivering another, such as a product shown as available that turns out to be out of stock and is replaced by a costlier one.",
+  "id": "CPA|Dark pattern Bait and switch"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Drip pricing",
+  "text": "Not revealing elements of the price upfront or revealing them surreptitiously, charging more than the amount shown at checkout, advertising something as free without disclosing that continued use needs in-app purchases, or preventing use of a service already paid for unless something extra is bought. A marketplace is not liable for price changes made by third party sellers or beyond its control.",
+  "id": "CPA|Dark pattern Drip pricing"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Disguised advertisement",
+  "text": "Presenting advertisements as other content such as user-generated content or news articles so users click on them. The seller or advertiser must disclose that the content is an advertisement.",
+  "id": "CPA|Dark pattern Disguised advertisement"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Nagging",
+  "text": "Repeated and persistent requests or interruptions that annoy the user to push a transaction for commercial gain, unless the user permitted them, such as constant requests to accept notifications or cookies with no option to say no.",
+  "id": "CPA|Dark pattern Nagging"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Trick question",
+  "text": "Deliberately confusing or vague wording, such as double negatives, to misguide the user into a particular response.",
+  "id": "CPA|Dark pattern Trick question"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern SaaS billing",
+  "text": "Collecting recurring payments as surreptitiously as possible, for example no notice when a free trial turns into a paid plan, silent recurring debits or auto-renewal without telling users, charging for features not used, or shady credit card authorisation practices.",
+  "id": "CPA|Dark pattern SaaS billing"
+ },
+ {
+  "act": "Consumer Protection Act 2019",
+  "label": "Dark pattern Rogue malware",
+  "text": "Using ransomware or scareware to make users believe their device has a virus so they pay for a fake removal tool.",
+  "id": "CPA|Dark pattern Rogue malware"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 16 Undue influence",
+  "text": "A contract is induced by undue influence where one party is in a position to dominate the will of the other and uses that position to obtain an unfair advantage. Where a transaction appears unconscionable, the burden of proving it was not induced by undue influence lies on the party in the dominant position.",
+  "id": "ICA|Section 16 Undue influence"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 23 Unlawful object or consideration",
+  "text": "The consideration or object of an agreement is unlawful if it is forbidden by law, would defeat the provisions of any law, is fraudulent, involves injury to a person or property, or is regarded by the court as immoral or opposed to public policy. Such an agreement is void.",
+  "id": "ICA|Section 23 Unlawful object or consideration"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 27 Agreement in restraint of trade",
+  "text": "Every agreement that restrains anyone from exercising a lawful profession, trade or business is void to that extent, subject to the exception for sale of goodwill.",
+  "id": "ICA|Section 27 Agreement in restraint of trade"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 28 Agreements in restraint of legal proceedings",
+  "text": "An agreement that absolutely restricts a party from enforcing his rights through the usual legal proceedings, or that limits the time within which he may enforce them, or that extinguishes his rights or discharges the other party from liability after a specified period so as to restrict enforcement, is void to that extent. Agreements to refer future disputes to arbitration are saved by an exception.",
+  "id": "ICA|Section 28 Agreements in restraint of legal proceedings"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 73 Compensation for breach",
+  "text": "A party who suffers by a breach of contract is entitled to compensation for loss or damage that naturally arose in the usual course of things from the breach or that the parties knew, when making the contract, was likely to result. Compensation is not given for remote and indirect loss.",
+  "id": "ICA|Section 73 Compensation for breach"
+ },
+ {
+  "act": "Indian Contract Act 1872",
+  "label": "Section 74 Penalty stipulated for breach",
+  "text": "When a contract names a sum to be paid on breach, or contains a penalty clause, the aggrieved party is entitled to reasonable compensation not exceeding the amount named, whether or not actual damage or loss is proved.",
+  "id": "ICA|Section 74 Penalty stipulated for breach"
+ }
+]
